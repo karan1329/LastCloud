@@ -1,0 +1,83 @@
+body {
+  background-color: #f3f4ff;
+  font-family: 'Poppins', sans-serif;
+}
+
+span {
+  color: #0D1B6D;
+}
+
+
+/* Navbar */
+
+.container-fluid{
+  padding: 3% 10%;      /* change to 10 after done editing */
+}
+
+.logo{
+  height: 2.8rem;
+}
+
+.nav-item {
+
+  font-size: 1.1rem;
+  margin-left: 25px;
+  color: white;
+}
+.btn {
+  margin-left: 5px;
+  background-color: #7883FF;
+}
+
+.btn:hover {
+  background-color: #5a66ce;
+}
+
+
+/* Main heading-title section */
+
+#title {
+  padding-top: 5%;
+}
+
+.main-heading {
+  font-size: 50px;
+  line-height: 1.5;
+  color: #7883FF;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.sub-heading {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #6E77AA;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.no-margin {
+  margin-top: 0;
+}
+
+.title-image {
+  width: 85%;
+  position: absolute;
+  right: 0;
+}
+
+.image-div {
+  position: relative;
+}
+
+
+.sign-up {
+margin: 0;
+margin-top: 40px;
+}
+
+.form-control {
+  padding-left: 0;
+}
